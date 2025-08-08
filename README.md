@@ -1,11 +1,5 @@
 # HTML Documentation
 
-- [HTML English Video Tutorial](https://youtu.be/TWUf6eSi2K8)
-- [Learn HTML by building a project Bangla Tutorial](https://youtu.be/mgO9ObbVeJ8)
-- [Full HTML course in 1 video | Bangla video 2025](https://youtu.be/zsYMgmb2oCM)
-- [html complete course Bangla (Beginner to Advanced)](https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3)
-- [You can learn HTML from here](https://htmldog.com/guides/html/)
-- [Assignment for HTML](https://github.com/anisul-Islam/full-stack-assignment-3-html)
 
 ![html course plan](images/html.png)
 
